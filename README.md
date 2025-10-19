@@ -28,7 +28,7 @@ Designed to resemble professional online chess platforms, this engine combines *
 * Smooth animations (60 FPS interpolation)
 * Modern, minimal interface with clean colors
 
-### ⏱ Time Control System
+###  Time Control System
 
 * Dual player clocks (10-minute format by default)
 * Automatic switching between turns
