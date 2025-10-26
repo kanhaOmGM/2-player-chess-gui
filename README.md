@@ -1,4 +1,4 @@
-# Chess Engine
+# Chess GUI
 
 A complete and polished chess game built using **Python** and **Pygame**, featuring realistic animations, full rule enforcement, and tournament-style time controls.
 
