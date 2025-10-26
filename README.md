@@ -6,9 +6,8 @@ A complete and polished chess game built using **Python** and **Pygame**, featur
 
 ##  Overview
 
-This project implements a **fully functional chess engine** that follows all standard **FIDE rules** of chess. It supports check, checkmate, stalemate, pawn promotion, castling, en passant, and time-based gameplay.
-
-Designed to resemble professional online chess platforms, this engine combines **strong rule logic**, **intuitive controls**, and **smooth visuals** — making it ideal for both learners and developers looking to explore game programming, algorithms, and UI design.
+Chess had been a large part of my life for a few years in the past as has been coding. The online chess-GUIs had always sparked my curiosity in how they checked for legal moves, implemented moves like captures, knight moves, restricted pieces to the board and etcetra. Hence I took upon this project to understand how chess-GUIs are built. 
+I look forward to implementing additional functionalities in this year long project.
 
 ---
 
